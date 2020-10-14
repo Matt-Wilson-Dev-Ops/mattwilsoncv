@@ -1879,6 +1879,12 @@ input, select, textarea {
 				padding-left: 3em;
 			}
 
+				.box.style1.right-text .inner {
+			
+				padding-left: 3em;
+			}
+
+
 			.box.style1.left .image {
 				right: 0;
 			}
